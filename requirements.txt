@@ -1,0 +1,9 @@
+opencv-python
+mediapipe
+Pillow
+google-generativeai
+cvzone
+numpy
+pynput
+pyautogui
+pycaw
